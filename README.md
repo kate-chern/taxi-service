@@ -28,10 +28,9 @@ This is a simple taxi service web application where we can add cars, them manufa
 
 
 
-
 ## Tech Stack
 
-Java, Maven, Tomcat, MySQL
+Java11, Maven 4.0.0, Tomcat9.0.50, Servlet 4.0.1, JSTL 1.2, MySQL8.0.28
 
 
 
